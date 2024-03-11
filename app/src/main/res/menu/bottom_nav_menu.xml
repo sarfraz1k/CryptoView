@@ -15,7 +15,7 @@
         app:showAsAction="always"/>
 
 
-    <item android:id="@+id/watchListFragment"
+    <item android:id="@+id/watchlistFragment"
         android:enabled="true"
         android:icon="@drawable/ic_bookmark"
         android:title="Watchlist"

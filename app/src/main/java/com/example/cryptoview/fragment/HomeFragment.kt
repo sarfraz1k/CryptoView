@@ -42,8 +42,9 @@ class HomeFragment : Fragment(){
                     binding.topGainIndicator.visibility = VISIBLE
                     binding.topLoseIndicator.visibility = GONE
                 }else{
-                    binding.topGainIndicator.visibility = GONE
                     binding.topLoseIndicator.visibility = VISIBLE
+                    binding.topGainIndicator.visibility = GONE
+
 
                 }
             }
