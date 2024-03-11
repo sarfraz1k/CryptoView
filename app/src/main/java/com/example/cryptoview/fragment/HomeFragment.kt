@@ -1,6 +1,7 @@
 package com.example.cryptoview.fragment
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.View.GONE
@@ -68,7 +69,7 @@ class HomeFragment : Fragment(){
                     binding.topCurrencyRecyclerView.adapter= TopMarketAdapter(requireContext(),res.body()!!.data.cryptoCurrencyList)
 
             }
-
+            Log.d("Shubh","getTopCurrencyList:${res.body()!!.data.cryptoCurrencyList}")
 
         }
 

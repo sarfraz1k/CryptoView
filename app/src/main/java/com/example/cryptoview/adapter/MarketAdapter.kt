@@ -67,7 +67,7 @@ class MarketAdapter(var context: Context, var list: List<CryptoCurrency>, var ty
                 )
             }else{
                 findNavController(it).navigate(
-                    WatchListFragmentDirections.actionWatchListFragmentToDetailsFragment(item))
+                    WatchListFragmentDirections.actionWatchlistFragmentToDetailsFragment(item))
             }
 
         }

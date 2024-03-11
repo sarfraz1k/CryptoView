@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.cryptoview.R
 import com.example.cryptoview.databinding.TopCurrencyLayoutBinding
-import com.example.cryptoview.fragment.WatchListFragmentDirections
+import com.example.cryptoview.fragment.HomeFragmentDirections
 import models.CryptoCurrency
 
 class TopMarketAdapter(var context:Context, val list:List<CryptoCurrency>):RecyclerView.Adapter<TopMarketAdapter.TopMarketViewHolder>() {
@@ -39,7 +39,7 @@ class TopMarketAdapter(var context:Context, val list:List<CryptoCurrency>):Recyc
         }
         holder.itemView.setOnClickListener{
             Navigation.findNavController(it).navigate(
-                WatchListFragmentDirections.actionWatchListFragmentToDetailsFragment(item))
+                HomeFragmentDirections.actionHomeFragmentToDetailsFragment(item))
         }
     }
 
