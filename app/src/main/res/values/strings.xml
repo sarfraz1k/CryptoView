@@ -11,4 +11,13 @@
     <string name="_1d">1 Day</string>
     <string name="_1w">1 Week</string>
     <string name="_1m">1 Mon</string>
+    <string name="cryptoview">CryptoView</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="forget_your_password">forget your password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="the_future">THE FUTURE</string>
+    <string name="learn_more_about_cryptocurrencies_look_to_the_future">Learn more about cryptocurrencies look to the future</string>
 </resources>
