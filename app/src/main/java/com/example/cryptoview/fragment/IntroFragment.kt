@@ -23,7 +23,7 @@ class IntroFragment : AppCompatActivity() {
 
     private fun setVariable() {
       goBtn.setOnClickListener{
-          startActivity(Intent(this@IntroFragment, LoginFragment::class.java))
+          startActivity(Intent(this@IntroFragment, MainActivity::class.java))
       }
     }
 
