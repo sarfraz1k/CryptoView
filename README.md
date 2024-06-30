@@ -1,3 +1,4 @@
+![Screenshot_2024-06-30-22-42-52-18_95b2ba6bd7b6f2ab2a1838475b4361b3](https://github.com/sarfraz1k/CryptoView/assets/147593250/86796753-96e5-4979-92ab-f3673e128208)
 ![1000009615](https://github.com/sarfraz1k/CryptoView/assets/147593250/c05dc6b7-81f3-4b28-9cfb-9eb8d79c5791)
 ![1000009614](https://github.com/sarfraz1k/CryptoView/assets/147593250/8390f49f-01b5-4eaf-b7a7-fb086534d943)
 ![1000009612](https://github.com/sarfraz1k/CryptoView/assets/147593250/58b2e15b-8664-4777-b1bc-051e42a456a0)
